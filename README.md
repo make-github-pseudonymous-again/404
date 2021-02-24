@@ -7,5 +7,5 @@ See [the issue tracker](https://github.com/aureooms/404/issues).
 ## :link: See also
 
  - [Are we distributed yet?](https://github.com/arewedistributedyet/arewedistributedyet)
- - [The Noble Eightfold Path](https://github.com/aureooms/eightfold).
+ - [The Noble Eightfold Path](https://github.com/aureooms/eightfold)
  - [Alternative Internet](https://github.com/redecentralize/alternative-internet)
